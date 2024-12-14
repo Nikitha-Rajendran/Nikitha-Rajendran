@@ -3,7 +3,7 @@
 
 Welcome to Nikitha's nook!
 
-- I am a Data Engineer at Deloitte
+- I am a Data Engineer at Deloitte.
 
 - I love finding an intersection between code and the things I am interested in. 
 
@@ -13,7 +13,7 @@ Welcome to Nikitha's nook!
 
 Project Stuff:
 
-- An NLP project I worked on in college. [CLICK ME](https://github.com/Nikitha-Rajendran/Topic-Modeling)
+- [Dissecting NLP concepts, one at a time.](https://github.com/Nikitha-Rajendran/Topic-Modeling)
 
 -
 
