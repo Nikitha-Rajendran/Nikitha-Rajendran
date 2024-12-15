@@ -15,7 +15,7 @@ Project Stuff:
 
 - [Dissecting NLP concepts, one at a time.](https://github.com/Nikitha-Rajendran/Topic-Modeling)
 
--
+- [Shopping habits, Simplified.](https://github.com/Nikitha-Rajendran/Customer-Segregation-With-RFM-Analysis)
 
 -
 
