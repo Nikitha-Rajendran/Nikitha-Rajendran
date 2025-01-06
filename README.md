@@ -17,7 +17,6 @@ Project Stuff:
 
 - [Shopping habits, Simplified.](https://github.com/Nikitha-Rajendran/Customer-Segregation-With-RFM-Analysis)
 
--
 
 Certificates:
 
