@@ -21,7 +21,7 @@ Project Stuff:
 
 Certificates:
 
-[CLICK ME for a list of certification courses I have completed hitherto.](https://github.com/Nikitha-Rajendran/Certificates)
+[CLICK ME for a list of completed certifications.](https://github.com/Nikitha-Rajendran/Certificates)
 
 
 
