@@ -7,7 +7,9 @@ Welcome to Nikitha's nook!
 
 - I love finding an intersection between code and the things I am interested in. 
 
-- I dabble in beat-making at times specifically ambient music. 
+- I dabble in beat-making at times specifically ambient music.
+
+- When I am absolutely jobless, I practice to improve my typing speed. My current record is 102 words per minute with 97% accuracy.
 
 --------------------------
 
