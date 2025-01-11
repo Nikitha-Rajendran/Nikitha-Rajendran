@@ -3,7 +3,7 @@
 
 Welcome to Nikitha's nook!
 
-- I am a Data Engineer at Deloitte.
+- I work with data at Deloitte.
 
 - I love finding an intersection between code and the things I am interested in. 
 
